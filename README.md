@@ -3,7 +3,6 @@
 #### I code quite a bit in what I'm interested
 - 🚀 Lots of React
 - 👁️ Web3 development having special care with UX
-- 📈 Data visualization with D3
 - 🧠 Simple code
 
 ##### Check out my pinned repos, they are about that
