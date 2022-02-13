@@ -2,7 +2,7 @@
 
 #### I code quite a bit in what I'm interested
 - 🚀 Lots of React
-- 👁️ Web3 development having special care with UX
+- 👁️ Web3 development having special care in the UX
 - 🧠 Simple, readable and maintainable code. Like a book
 
 ##### Check out my pinned repos, they are about that
