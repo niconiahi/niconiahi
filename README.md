@@ -1,3 +1,3 @@
 hi there, I'm Nico
 
-check out my pinned items, I have my best babies there
+check out my pinned items, all the repositories there have detailed documentation
